@@ -1,3 +1,5 @@
+#Hecho por Scoth y Alejandro
+
 # A Drupal via DDEV template on Gitpod
 
 This is a [Drupal via DDEV](https://github.com/drud/ddev) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
